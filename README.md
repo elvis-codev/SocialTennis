@@ -12,7 +12,6 @@ SocialTennis es una plataforma de red social dedicada exclusivamente a los amant
 
 
 ## Diagrama de Base de Datos
-![Logo de mi proyecto]((https://github.com/elvis-codev/SocialTennis/blob/main/img/BasedeDatos_SocialTennis.png))
 ![alt text](https://github.com/elvis-codev/SocialTennis/blob/main/img/BasedeDatos_SocialTennis.png?raw=true)
 
 
