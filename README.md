@@ -24,6 +24,12 @@ git clone https://github.com/elvis-codev/SocialTennis
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+python -m pip install django
+```
+```bash
+pip install pillow
+```
 
 3. Ejecuta el servidor de desarrollo:
 
@@ -35,17 +41,12 @@ python manage.py runserver
 
 5. puedes ir a la url de [http://localhost:8000/data](http://localhost:8000/data) para cargar informacion por defecto
 
+## Usuarios
 
-ACCESO ADMIN
-- USER: renato12
-- PASS: 1234
-
-ACCESO CLIENTE
-- USER: renatoac
-- PASS: renato12345
-
-
-pip freeze > requirements.txt
+| TIPO  | username  | password  |
+|---|---|---|
+| Admin  | renato12  | 1234  |
+| Usuario  | renatoac  | renato12345 |
 
 
 
