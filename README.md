@@ -1,4 +1,6 @@
-# SOCIALTENNIS ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+# SOCIALTENNIS
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)![Django Logo](https://www.djangoproject.com/s/img/logos/django-logo-positive.png)![SQLite Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png)
+
 
 
 SocialTennis es una plataforma de red social dedicada exclusivamente a los amantes del tenis. Conecta con jugadores, encuentra eventos y organiza partidos en un solo lugar.
