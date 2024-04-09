@@ -24,12 +24,6 @@ git clone https://github.com/elvis-codev/SocialTennis
 ```bash
 pip install -r requirements.txt
 ```
-```bash
-python -m pip install django
-```
-```bash
-pip install pillow
-```
 
 3. Ejecuta el servidor de desarrollo:
 
