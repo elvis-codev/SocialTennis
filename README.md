@@ -20,7 +20,7 @@ SocialTennis es una plataforma de red social dedicada exclusivamente a los amant
 
 
 ## Diagrama de Base de Datos
-![alt text](https://github.com/elvis-codev/SocialTennis/blob/main/img/BasedeDatos_SocialTennis.png?raw=true)
+![alt text](https://github.com/elvis-codev/SocialTennis/blob/main/Diagrama%20Base%20de%20Datos/BasedeDatos_SocialTennis.png?raw=true)
 
 
 ## Requisitos de Instalación
