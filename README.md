@@ -60,7 +60,7 @@ python manage.py runserver
 --- 
 
 
-### pip install 
+### Requirements.txt
 ```bash
 Django==5.0.4
 Pillow==10.3.0
