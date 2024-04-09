@@ -2,6 +2,11 @@
 
 SocialTennis es una plataforma de red social dedicada exclusivamente a los amantes del tenis. Conecta con jugadores, encuentra eventos y organiza partidos en un solo lugar.
 
+
+## Diagrama de Base de Datos
+![Logo de mi proyecto]([https://github.com/tu_usuario/tu_repositorio/raw/main/imagen.png](https://github.com/elvis-codev/SocialTennis/blob/main/img/BasedeDatos_SocialTennis.png))
+
+
 ## Requisitos de Instalación
 
 Antes de comenzar con el desarrollo en este proyecto, asegúrate de tener los siguientes requisitos instalados en tu sistema:
