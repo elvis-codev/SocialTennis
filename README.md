@@ -88,7 +88,4 @@ template==0.7.6
 toml==0.10.2
 tzdata==2024.1
 urllib3==2.2.1
-requests==2.31.0
-
-Unidecode==1.3.7
 ```
