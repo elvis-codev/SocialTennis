@@ -4,7 +4,7 @@
 <div style="text-align:center">
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Texto alternativo 1" width="200" style="display:inline">
     <img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" alt="Texto alternativo 2" width="200" style="display:inline">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="Texto alternativo 3" width="200" style="display:inline">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKin0QNU3j8js8H_FzAQ5qhHr3Vo1p7GAGdFzCUxslzWqXMCbDf_LnGnvkgX1jxoEJMB8EaKuHJwu9H5fIYmxIo5B818R8Wbyg6HQALh59HcSqgrZjyKjr2QWHnECJW9xosOVdxQ0TaQw/s1600/sqlite.png" alt="Texto alternativo 3" width="200" style="display:inline">
 </div>
 
 
