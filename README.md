@@ -2,11 +2,11 @@
 
 Breve descripción o introducción al proyecto.
 
+
 ## Instalación
 
 1. Clonar el repositorio:
 
-```bash
 git clone https://github.com/tu_usuario/tu_proyecto.git
 
 Acceder al directorio del proyecto:
