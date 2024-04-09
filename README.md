@@ -1,13 +1,12 @@
 # SOCIALTENNIS
----
-
+------
 <div style="text-align:center">
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Texto alternativo 1" width="200" style="display:inline">
     <img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" alt="Texto alternativo 2" width="200" style="display:inline">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="Texto alternativo 3" width="200" style="display:inline">
 </div>
----
 
+------
 
 SocialTennis es una plataforma de red social dedicada exclusivamente a los amantes del tenis. Conecta con jugadores, encuentra eventos y organiza partidos en un solo lugar.
 
